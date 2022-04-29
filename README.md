@@ -5,6 +5,6 @@
 
 -It enables different users to send and receive messages on a single server.
 
-##Installation
+## Installation
 
 -After download or clone run `npm install` to install all the dependancies.
