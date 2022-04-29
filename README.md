@@ -1,4 +1,4 @@
-# Realtime_chat_app
+# Realtime_chat_app :speech_balloon:
 
 - A real-time chat app that uses **HTML**, **CSS**, and **JavaScript** on the front end, with **Node.js** and
 **Socket.io** on the back end.
